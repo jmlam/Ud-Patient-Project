@@ -1,3 +1,14 @@
 # Ud-Patient-Project
-Patient Absenteeism Project from Udacity's Nano Degree Program. No currently documented commits as
-this project was part of Udacity's Data Analyst Nanodegree program during the Practical Statistics Portion course. The project demonstrates an understanding of basic statistics and use of the Numpy, Pandas, and Matplotlib libraries.
+This Patient Absenteeism Project is from Udacity's Nano Degree Program. The project used a publicly avaliable database from Kaggle.com to determine probable causes for absenteeism. This project was an exercise of basic statistics and the use of Numpy, Pandas, and Matplotlib libraries.
+
+# Install
+All work was done in a Jupyter Notebook although an HTML file has also been provided.
+
+If using Anaconda:
+`conda install jupyter notebook`
+
+Pip:
+`pip install jupyter notebook`
+
+# Commit Preface
+This project was done prior to active use of git, therefore no commits are avaliable.
